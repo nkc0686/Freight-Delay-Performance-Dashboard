@@ -1,0 +1,151 @@
+LoadID,Carrier,Dispatcher,Origin,Destination,ScheduledDelivery,ActualDelivery,DelayMinutes,Terminal,Status
+02277562,Knight-Swift,J. Olson,WI,IL,6/1/2025 18:00,6/1/2025 18:00,0,Fargo,On-Time
+b77ad0e0,Werner,R. Davis,ND,IL,6/11/2025 11:00,6/11/2025 11:00,0,Winnipeg,On-Time
+5db6355f,Werner,R. Davis,ND,IN,6/10/2025 17:00,6/10/2025 19:31,151,Winnipeg,Late
+7c337c40,Werner,J. Olson,ND,MB,6/29/2025 12:00,6/29/2025 11:59,-1,Winnipeg,Early
+518447f5,Werner,S. Lee,WI,OH,6/11/2025 18:00,6/11/2025 18:22,22,Winnipeg,Late
+94e175e8,CH Robinson,J. Olson,WI,IN,6/12/2025 16:00,6/12/2025 17:37,97,Grand Forks,Late
+14fcfb2a,Knight-Swift,S. Lee,WI,MO,6/19/2025 10:00,6/19/2025 10:00,0,Winnipeg,On-Time
+eb3ef61a,Marten,A. Martin,SD,IL,6/20/2025 11:00,6/20/2025 11:00,0,Fargo,On-Time
+47488246,Knight-Swift,A. Martin,WI,MB,6/17/2025 11:00,6/17/2025 10:30,-30,Fargo,Early
+e041b948,Old Dominion,S. Lee,SD,MO,6/29/2025 10:00,6/29/2025 10:38,38,Grand Forks,Late
+5eb00d70,Werner,R. Davis,WI,OH,6/15/2025 11:00,6/15/2025 11:00,0,Fargo,On-Time
+52b0fd6b,Marten,R. Davis,SD,IL,6/26/2025 13:00,6/26/2025 13:00,0,Minneapolis,On-Time
+527a5215,Knight-Swift,J. Olson,ND,OH,6/12/2025 7:00,6/12/2025 7:00,0,Grand Forks,On-Time
+51497cd9,Werner,J. Olson,IA,MB,6/22/2025 16:00,6/22/2025 16:00,0,Minneapolis,On-Time
+d6dc3cc9,Knight-Swift,S. Lee,SD,IN,6/23/2025 10:00,6/23/2025 9:38,-22,Fargo,Early
+78b23787,Marten,R. Davis,ND,MB,6/7/2025 7:00,6/7/2025 8:07,67,Grand Forks,Late
+76aefdb2,Bison,R. Davis,SD,MB,6/27/2025 15:00,6/27/2025 15:00,0,Winnipeg,On-Time
+2ba7f31e,Knight-Swift,R. Davis,SD,MO,6/28/2025 13:00,6/28/2025 12:38,-22,Des Moines,Early
+90b3f5a7,Knight-Swift,S. Lee,MN,MO,6/8/2025 7:00,6/8/2025 6:42,-18,Winnipeg,Early
+bb12be7c,CH Robinson,K. Brown,ND,OH,6/25/2025 8:00,6/25/2025 8:00,0,Minneapolis,On-Time
+c4a5189d,Knight-Swift,R. Davis,MN,IN,6/26/2025 17:00,6/26/2025 18:53,113,Minneapolis,Late
+479f9ee0,CH Robinson,J. Olson,IA,MB,6/29/2025 14:00,6/29/2025 14:40,40,Grand Forks,Late
+6013fa58,Werner,J. Olson,ND,MB,6/27/2025 15:00,6/27/2025 16:37,97,Grand Forks,Late
+4e813203,CH Robinson,S. Lee,ND,OH,6/18/2025 11:00,6/18/2025 10:44,-16,Winnipeg,Early
+1710ccd4,Bison,R. Davis,MN,OH,6/14/2025 8:00,6/14/2025 7:32,-28,Des Moines,Early
+b37cbd6d,Old Dominion,K. Brown,MN,IL,6/20/2025 17:00,6/20/2025 17:00,0,Grand Forks,On-Time
+3333543e,Marten,K. Brown,MN,OH,6/29/2025 13:00,6/29/2025 13:00,0,Fargo,On-Time
+a0285e15,Werner,K. Brown,IA,OH,6/24/2025 16:00,6/24/2025 16:00,0,Grand Forks,On-Time
+59d346f6,CH Robinson,J. Olson,ND,IL,6/5/2025 16:00,6/5/2025 17:04,64,Winnipeg,Late
+d69c693d,Marten,K. Brown,SD,IL,6/12/2025 13:00,6/12/2025 12:55,-5,Minneapolis,Early
+ea3ac493,Werner,A. Martin,ND,IN,6/17/2025 18:00,6/17/2025 17:31,-29,Fargo,Early
+1cf1dc88,Old Dominion,S. Lee,IA,MO,6/17/2025 18:00,6/17/2025 17:42,-18,Fargo,Early
+a297be18,Bison,A. Martin,IA,MO,6/6/2025 17:00,6/6/2025 17:00,0,Fargo,On-Time
+02a18a43,Bison,R. Davis,WI,IL,6/16/2025 9:00,6/16/2025 8:41,-19,Grand Forks,Early
+ea77f861,Bison,A. Martin,ND,IN,6/23/2025 6:00,6/23/2025 8:23,143,Grand Forks,Late
+4696b063,Old Dominion,A. Martin,IA,OH,6/29/2025 9:00,6/29/2025 8:33,-27,Grand Forks,Early
+1811c41e,Old Dominion,J. Olson,WI,OH,6/6/2025 15:00,6/6/2025 15:11,11,Fargo,On-Time
+0a7a10da,Old Dominion,A. Martin,WI,IL,6/11/2025 8:00,6/11/2025 7:46,-14,Minneapolis,Early
+ab857268,Werner,S. Lee,WI,MO,6/21/2025 11:00,6/21/2025 10:54,-6,Des Moines,Early
+56553afc,Bison,R. Davis,SD,IN,6/20/2025 14:00,6/20/2025 13:52,-8,Minneapolis,Early
+f6a1e4ca,CH Robinson,R. Davis,ND,IN,6/25/2025 9:00,6/25/2025 8:56,-4,Minneapolis,Early
+c3858737,Bison,K. Brown,SD,MO,6/2/2025 13:00,6/2/2025 13:09,9,Winnipeg,On-Time
+10ae8282,CH Robinson,R. Davis,MN,MB,6/17/2025 10:00,6/17/2025 10:00,0,Grand Forks,On-Time
+94e550d6,Werner,S. Lee,SD,IN,6/6/2025 7:00,6/6/2025 9:54,174,Des Moines,Late
+fd0add14,Bison,R. Davis,ND,OH,6/21/2025 17:00,6/21/2025 18:14,74,Grand Forks,Late
+5659adc2,Bison,S. Lee,IA,MB,6/25/2025 9:00,6/25/2025 8:54,-6,Des Moines,Early
+31f751c8,Werner,S. Lee,MN,MB,6/12/2025 18:00,6/12/2025 17:48,-12,Grand Forks,Early
+938ae387,Bison,R. Davis,MN,OH,6/12/2025 16:00,6/12/2025 15:38,-22,Des Moines,Early
+c5f17d7a,CH Robinson,A. Martin,WI,OH,6/2/2025 10:00,6/2/2025 10:00,0,Grand Forks,On-Time
+b36960e1,Knight-Swift,R. Davis,ND,IL,6/18/2025 12:00,6/18/2025 11:52,-8,Minneapolis,Early
+6faea904,Werner,S. Lee,ND,IN,6/6/2025 15:00,6/6/2025 15:31,31,Des Moines,Late
+62da75a8,Knight-Swift,R. Davis,WI,IL,6/25/2025 16:00,6/25/2025 15:51,-9,Winnipeg,Early
+2beb2db7,Old Dominion,A. Martin,SD,IL,6/27/2025 10:00,6/27/2025 11:07,67,Winnipeg,Late
+5d406ffe,Old Dominion,R. Davis,WI,MO,6/28/2025 13:00,6/28/2025 13:00,0,Fargo,On-Time
+7a500dfe,Werner,A. Martin,IA,MO,6/27/2025 6:00,6/27/2025 6:00,0,Minneapolis,On-Time
+fdbcb8ed,Werner,S. Lee,ND,OH,6/14/2025 8:00,6/14/2025 8:00,0,Fargo,On-Time
+dd0e6589,CH Robinson,R. Davis,MN,MO,6/12/2025 15:00,6/12/2025 14:57,-3,Winnipeg,Early
+e7033cf9,Bison,R. Davis,SD,OH,6/4/2025 12:00,6/4/2025 14:46,166,Minneapolis,Late
+9da1616f,Bison,K. Brown,IA,MO,6/9/2025 17:00,6/9/2025 16:37,-23,Minneapolis,Early
+7a18d7dc,CH Robinson,A. Martin,ND,MO,6/23/2025 17:00,6/23/2025 16:45,-15,Des Moines,Early
+029d3c77,CH Robinson,R. Davis,ND,IL,6/5/2025 8:00,6/5/2025 8:00,0,Grand Forks,On-Time
+f6df316c,CH Robinson,K. Brown,MN,IL,6/8/2025 6:00,6/8/2025 6:15,15,Des Moines,On-Time
+3f1f594c,Bison,A. Martin,WI,MO,6/13/2025 8:00,6/13/2025 9:42,102,Des Moines,Late
+64ef1ed7,Marten,K. Brown,WI,MO,6/23/2025 14:00,6/23/2025 13:52,-8,Grand Forks,Early
+7db6ef3e,CH Robinson,K. Brown,MN,OH,6/5/2025 15:00,6/5/2025 17:59,179,Minneapolis,Late
+873837a6,Old Dominion,S. Lee,IA,OH,6/13/2025 8:00,6/13/2025 8:00,0,Minneapolis,On-Time
+c34da96f,Bison,S. Lee,IA,MB,6/8/2025 9:00,6/8/2025 8:35,-25,Fargo,Early
+2c0f77cf,Old Dominion,J. Olson,IA,MO,6/10/2025 9:00,6/10/2025 8:45,-15,Grand Forks,Early
+9c92ed6e,Werner,R. Davis,WI,MO,6/29/2025 13:00,6/29/2025 13:55,55,Minneapolis,Late
+35d6e974,Werner,S. Lee,ND,MO,6/25/2025 11:00,6/25/2025 10:32,-28,Fargo,Early
+54d9c0f2,Knight-Swift,A. Martin,WI,MO,6/24/2025 7:00,6/24/2025 7:00,0,Fargo,On-Time
+74296577,Old Dominion,J. Olson,WI,MB,6/9/2025 12:00,6/9/2025 12:00,0,Des Moines,On-Time
+dfca96a6,Knight-Swift,S. Lee,ND,IN,6/23/2025 8:00,6/23/2025 9:26,86,Fargo,Late
+b156de04,Old Dominion,K. Brown,WI,IN,6/25/2025 14:00,6/25/2025 13:39,-21,Winnipeg,Early
+e3099875,Bison,A. Martin,MN,MB,6/24/2025 18:00,6/24/2025 17:39,-21,Grand Forks,Early
+51524c24,Knight-Swift,A. Martin,IA,IL,6/17/2025 8:00,6/17/2025 7:53,-7,Minneapolis,Early
+fda8d6b6,Werner,A. Martin,ND,MO,6/5/2025 8:00,6/5/2025 8:00,0,Grand Forks,On-Time
+f9a04a12,Marten,S. Lee,SD,IL,6/1/2025 14:00,6/1/2025 14:00,0,Grand Forks,On-Time
+762dd62d,Bison,J. Olson,ND,MB,6/21/2025 11:00,6/21/2025 11:00,0,Winnipeg,On-Time
+e4a23cb3,CH Robinson,S. Lee,WI,IL,6/14/2025 7:00,6/14/2025 9:12,132,Winnipeg,Late
+060bdc62,CH Robinson,J. Olson,MN,IN,6/24/2025 18:00,6/24/2025 18:00,0,Fargo,On-Time
+4914c9d2,Knight-Swift,J. Olson,ND,IL,6/9/2025 8:00,6/9/2025 10:49,169,Des Moines,Late
+f269ba60,Bison,A. Martin,MN,IN,6/2/2025 15:00,6/2/2025 15:00,0,Grand Forks,On-Time
+b80db2b0,Knight-Swift,R. Davis,ND,IN,6/24/2025 6:00,6/24/2025 6:00,0,Des Moines,On-Time
+e9e65c3e,Werner,R. Davis,WI,IL,6/11/2025 15:00,6/11/2025 15:00,0,Des Moines,On-Time
+74c8740e,Bison,J. Olson,WI,MB,6/18/2025 9:00,6/18/2025 10:44,104,Minneapolis,Late
+e0b41e11,Old Dominion,J. Olson,IA,OH,6/18/2025 18:00,6/18/2025 17:36,-24,Minneapolis,Early
+f6634fbc,Marten,J. Olson,IA,IL,6/7/2025 15:00,6/7/2025 17:41,161,Grand Forks,Late
+97beffbb,Bison,R. Davis,SD,IN,6/24/2025 18:00,6/24/2025 19:45,105,Fargo,Late
+078ab73e,Old Dominion,R. Davis,IA,IN,6/18/2025 9:00,6/18/2025 9:00,0,Fargo,On-Time
+37e836ce,Werner,A. Martin,WI,IL,6/19/2025 9:00,6/19/2025 9:33,33,Grand Forks,Late
+fbf3766b,CH Robinson,A. Martin,ND,MB,6/17/2025 14:00,6/17/2025 14:00,0,Winnipeg,On-Time
+807315dd,Bison,K. Brown,SD,OH,6/12/2025 7:00,6/12/2025 6:41,-19,Fargo,Early
+258c0f15,Knight-Swift,S. Lee,IA,IN,6/14/2025 8:00,6/14/2025 7:49,-11,Des Moines,Early
+1a9ac30a,Marten,R. Davis,MN,MO,6/10/2025 13:00,6/10/2025 13:00,0,Winnipeg,On-Time
+276d4886,CH Robinson,A. Martin,ND,MB,6/9/2025 10:00,6/9/2025 10:00,0,Fargo,On-Time
+427ec7dd,Bison,S. Lee,IA,IN,6/5/2025 11:00,6/5/2025 11:00,0,Minneapolis,On-Time
+6ef700b7,Marten,S. Lee,WI,MO,6/21/2025 14:00,6/21/2025 13:39,-21,Fargo,Early
+7088b559,Old Dominion,A. Martin,WI,MB,6/23/2025 11:00,6/23/2025 12:56,116,Fargo,Late
+4784c085,Marten,K. Brown,MN,OH,6/19/2025 17:00,6/19/2025 17:50,50,Minneapolis,Late
+223f33e7,Bison,R. Davis,MN,IL,6/4/2025 18:00,6/4/2025 18:00,0,Grand Forks,On-Time
+3fd6ddc2,Marten,S. Lee,MN,OH,6/15/2025 15:00,6/15/2025 15:42,42,Des Moines,Late
+0b293612,Marten,A. Martin,ND,MB,6/23/2025 9:00,6/23/2025 8:39,-21,Minneapolis,Early
+74ba1cd3,Knight-Swift,S. Lee,WI,IL,6/22/2025 7:00,6/22/2025 6:55,-5,Fargo,Early
+8df6f50a,CH Robinson,A. Martin,ND,IL,6/19/2025 10:00,6/19/2025 10:00,0,Fargo,On-Time
+cd98933e,Bison,J. Olson,ND,IL,6/23/2025 13:00,6/23/2025 13:00,0,Minneapolis,On-Time
+603cd742,Werner,K. Brown,SD,IL,6/15/2025 7:00,6/15/2025 7:00,0,Winnipeg,On-Time
+a5ac8d96,Werner,K. Brown,ND,OH,6/14/2025 7:00,6/14/2025 8:02,62,Winnipeg,Late
+3f61f6f8,Marten,J. Olson,SD,IL,6/4/2025 7:00,6/4/2025 8:10,70,Grand Forks,Late
+2ee979d3,Marten,K. Brown,ND,MO,6/22/2025 13:00,6/22/2025 12:59,-1,Fargo,Early
+5829c661,Bison,R. Davis,IA,IL,6/2/2025 13:00,6/2/2025 15:27,147,Grand Forks,Late
+604157b8,CH Robinson,J. Olson,WI,MO,6/3/2025 11:00,6/3/2025 10:58,-2,Des Moines,Early
+416b9c5e,Bison,J. Olson,SD,IN,6/4/2025 11:00,6/4/2025 10:40,-20,Minneapolis,Early
+0a6311db,Bison,K. Brown,ND,MB,6/29/2025 11:00,6/29/2025 10:40,-20,Minneapolis,Early
+6a76b6fb,Werner,R. Davis,ND,MO,6/20/2025 12:00,6/20/2025 14:00,120,Grand Forks,Late
+10f4b9f0,Werner,R. Davis,IA,MB,6/3/2025 12:00,6/3/2025 11:33,-27,Winnipeg,Early
+476eb922,Werner,R. Davis,WI,MB,6/22/2025 7:00,6/22/2025 8:47,107,Winnipeg,Late
+4c2f1992,Bison,R. Davis,SD,IL,6/18/2025 11:00,6/18/2025 11:00,0,Grand Forks,On-Time
+97e137c2,Old Dominion,R. Davis,SD,MO,6/29/2025 16:00,6/29/2025 16:00,0,Winnipeg,On-Time
+81179299,Marten,A. Martin,ND,OH,6/11/2025 17:00,6/11/2025 17:00,0,Fargo,On-Time
+2f60f42f,Bison,R. Davis,SD,MB,6/26/2025 15:00,6/26/2025 14:58,-2,Des Moines,Early
+740bb20c,Bison,A. Martin,WI,MB,6/1/2025 16:00,6/1/2025 16:00,0,Fargo,On-Time
+5e05d13c,Old Dominion,J. Olson,WI,MB,6/17/2025 16:00,6/17/2025 15:38,-22,Fargo,Early
+42c78118,CH Robinson,K. Brown,SD,OH,6/10/2025 6:00,6/10/2025 5:53,-7,Minneapolis,Early
+118e947c,Bison,S. Lee,MN,MO,6/25/2025 6:00,6/25/2025 6:00,0,Grand Forks,On-Time
+3466fceb,Knight-Swift,R. Davis,WI,MO,6/14/2025 10:00,6/14/2025 12:07,127,Fargo,Late
+b8b2cfc5,Marten,S. Lee,WI,MB,6/4/2025 17:00,6/4/2025 17:00,0,Minneapolis,On-Time
+07324e82,Werner,J. Olson,ND,OH,6/6/2025 13:00,6/6/2025 13:00,0,Grand Forks,On-Time
+c512de62,Old Dominion,S. Lee,MN,OH,6/17/2025 7:00,6/17/2025 7:00,0,Fargo,On-Time
+1192b2ce,Marten,J. Olson,ND,IN,6/20/2025 15:00,6/20/2025 15:48,48,Des Moines,Late
+a628ba84,Knight-Swift,A. Martin,ND,MB,6/25/2025 14:00,6/25/2025 16:18,138,Minneapolis,Late
+4502c374,Knight-Swift,R. Davis,SD,MO,6/7/2025 7:00,6/7/2025 9:58,178,Fargo,Late
+c0b0bbc5,CH Robinson,K. Brown,IA,IL,6/27/2025 18:00,6/27/2025 18:23,23,Grand Forks,Late
+fa6f7e68,Knight-Swift,A. Martin,ND,IN,6/13/2025 13:00,6/13/2025 13:00,0,Grand Forks,On-Time
+d3c7adc2,Marten,K. Brown,IA,MB,6/6/2025 8:00,6/6/2025 7:57,-3,Des Moines,Early
+ca496a2b,Marten,A. Martin,WI,MO,6/19/2025 6:00,6/19/2025 5:49,-11,Grand Forks,Early
+b88cf27f,Werner,S. Lee,ND,MO,6/25/2025 16:00,6/25/2025 15:39,-21,Winnipeg,Early
+81f6cd62,Bison,K. Brown,WI,OH,6/26/2025 12:00,6/26/2025 14:05,125,Fargo,Late
+764c0b87,Bison,A. Martin,WI,IL,6/19/2025 10:00,6/19/2025 10:00,0,Grand Forks,On-Time
+59db536e,CH Robinson,K. Brown,MN,MB,6/4/2025 11:00,6/4/2025 10:44,-16,Fargo,Early
+4e18e832,Werner,J. Olson,ND,OH,6/23/2025 9:00,6/23/2025 9:36,36,Winnipeg,Late
+ec7cd1cf,Marten,A. Martin,MN,IL,6/16/2025 10:00,6/16/2025 10:00,0,Fargo,On-Time
+fca455ae,Werner,S. Lee,WI,MO,6/29/2025 14:00,6/29/2025 13:49,-11,Grand Forks,Early
+a72a6389,Marten,K. Brown,IA,OH,6/3/2025 11:00,6/3/2025 11:04,4,Des Moines,On-Time
+17395604,Old Dominion,J. Olson,IA,MB,6/13/2025 7:00,6/13/2025 7:00,0,Minneapolis,On-Time
+695d2131,Old Dominion,S. Lee,IA,IN,6/3/2025 8:00,6/3/2025 8:32,32,Des Moines,Late
+1c6d97e2,Knight-Swift,A. Martin,ND,IN,6/2/2025 10:00,6/2/2025 10:00,0,Fargo,On-Time
+32949ca8,Werner,A. Martin,SD,IL,6/10/2025 16:00,6/10/2025 17:41,101,Minneapolis,Late
+cf708814,Werner,R. Davis,SD,OH,6/14/2025 7:00,6/14/2025 6:38,-22,Grand Forks,Early
+481d4cb2,CH Robinson,K. Brown,IA,IL,6/3/2025 7:00,6/3/2025 7:44,44,Des Moines,Late
