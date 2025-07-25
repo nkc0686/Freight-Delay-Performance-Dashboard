@@ -6,5 +6,3 @@ SELECT
 FROM `coherent-coder-464101-b6.freight_analytics.freight_delays`
 GROUP BY Carrier
 ORDER BY AvgDelay DESC;
-
-FROM `coherent-coder-464101-b6.freight_analytics.freight_delays`
