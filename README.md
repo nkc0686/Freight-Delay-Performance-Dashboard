@@ -100,4 +100,6 @@ July 2025
 
 ## Created by
 
-Nikkole Carlson
+**Nikkole Carlson**  
+[LinkedIn Profile](https://www.linkedin.com/in/nikkole-carlson-20a58046/)
+
