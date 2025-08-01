@@ -1,6 +1,9 @@
 # Freight Delay Performance Dashboard (Power BI + SQL)
 
-This project analyzes freight delivery delays using a manually constructed dataset and demonstrates how SQL and Power BI can work together to uncover operational inefficiencies and logistics insights.
+![Freight Delay Dashboard Overview](Dashboard/dashboard_overview.png)
+
+This project analyzes freight delivery delays using a manually constructed dataset...
+
 
 ## Overview
 
