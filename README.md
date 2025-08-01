@@ -1,129 +1,100 @@
 # Freight Delay Performance Dashboard (Power BI + SQL)
 
-This project analyzes freight delivery delays using a manually constructed dataset and demonstrates how SQL and Power BI can be used together to uncover operational insights.
+This project analyzes freight delivery delays using a manually constructed dataset and demonstrates how SQL and Power BI can work together to uncover operational inefficiencies and logistics insights.
 
----
+## Overview
 
-## 🔍 Overview
+This dashboard focuses on:
 
-This dashboard project focuses on:
+- Identifying average delivery delays by carrier and dispatcher
+- Tracking daily delay trends
+- Summarizing delivery status performance
+- Visualizing on-time delivery percentages
+- Filtering insights by terminal location
 
-- Identifying average delivery delays by carrier and dispatcher  
-- Tracking daily delay trends  
-- Summarizing delivery status performance  
-- Visualizing overall on-time delivery percentage  
-- Filtering by terminal location  
+## Disclaimer
 
----
+The dataset was manually constructed for educational and portfolio purposes. It does not reflect actual performance data from any company.
 
-## ⚠️ Disclaimer
+## Anonymized Data Note
 
-The dataset used in this project was manually created for educational and portfolio purposes only. It does not represent real operational performance data from any company.
+All carrier, dispatcher, and terminal names are fictional or anonymized. These identifiers were selected solely for demonstration and do not represent real organizations or individuals.
 
----
+## Project Files
 
-## 🛡️ Note on Anonymized Data
+### Main Dataset & Summaries
 
-All terminal, dispatcher, and carrier names used in this project are fictional or anonymized.  
-These identifiers were selected solely for demonstration and illustrative purposes.
+- `freight_delay_data.csv` – Primary dataset used in slicers and model
+- `carrier_delay_summary.csv` – Average delay by carrier
+- `dispatcher_delay_summary.csv` – Dispatcher load and delay totals
+- `daily_delay_trend.csv` – Daily average delay by terminal
+- `on_time_delivery_breakdown.csv` – Delivery status counts & on-time percentages
 
----
+### Power BI File
 
-## 📁 Project Files
+- `freight_delay_dashboard.pbix` – Available upon request  
+  (Omitted from GitHub due to size/versioning limits. Contact via LinkedIn or GitHub for access.)
 
-### 🔹 Main Dataset and Summaries
+### SQL Scripts (`/SQL/`)
 
-- `freight_delay_data.csv` — Primary dataset used for slicers and modeling inputs  
-- `carrier_delay_summary.csv` — Summary of average delivery delay by carrier  
-- `dispatcher_delay_summary.csv` — Summary of total loads and delays by dispatcher  
-- `daily_delay_trend.csv` — Daily average delay trend by terminal  
-- `on_time_delivery_breakdown.csv` — Delivery status counts and on-time percentages  
+Executed in Google BigQuery Sandbox:
 
-### 🔹 Power BI Project File
+- `01_carrier_summary.sql`
+- `02_dispatcher_summary.sql`
+- `03_ontime_breakdown.sql`
+- `04_delay_trend.sql`
 
-- `freight_delay_dashboard.pbix` is available upon request.  
-  Due to GitHub file size and version control limitations, it is not included in this repository.  
-  > 📩 Contact me via [LinkedIn](https://www.linkedin.com/in/nikkole-carlson-20a58046/) or GitHub to request access.
+### Visual & Modeling Assets
 
-### 🔹 SQL Scripts
+- `/Dashboard/` – Screenshots of the dashboard filtered by terminal
+- `/Modeling/` – DAX formulas, Power Query transformations, and model views
+- `/Screenshots/` – BigQuery editor views and other supporting screenshots
+- `/Reports/` – Final project report in DOCX and PDF formats
 
-SQL queries were written and executed in Google BigQuery Sandbox:
+## Power BI Visualizations
 
-- `01_carrier_summary.sql` — Calculates average delay by carrier  
-- `02_dispatcher_summary.sql` — Summarizes dispatcher-level delays and total loads  
-- `03_ontime_breakdown.sql` — Counts of early, on-time, and late deliveries  
-- `04_delay_trend.sql` — Daily average delay per terminal  
+- Average Delay by Carrier (Bar Chart)
+- Late Loads by Dispatcher (Column Chart)
+- Daily Average Delay Trend (Line Chart)
+- Delivery Status Breakdown (Donut Chart)
+- On-Time Delivery Percentage (Card)
+- Terminal Filter (Slicer)
 
-### 🔹 Visual & Modeling Assets
+## Tools Used
 
-- `/Dashboard/` — Screenshots of each dashboard view by terminal  
-- `/Modeling/` — Screenshots of Power Query steps and DAX formulas  
-- `/Screenshots/` — Supplemental screenshots including BigQuery views and editor steps  
-- `/Reports/` — PDF and DOCX versions of the final project summary  
+- Google BigQuery Sandbox – SQL-based data summarization
+- Power BI Desktop – Dashboard development
+- Power Query & DAX – Data modeling and transformation
+- Manual CSV exports from SQL output
+- GitHub – Version control and project documentation
 
----
+## Lightweight Data Pipeline
 
-## 📊 Visualizations (Power BI Desktop)
+This project reflects a basic SQL → CSV → BI pipeline:
 
-- Average Delay by Carrier (Bar Chart)  
-- Late Loads by Dispatcher (Column Chart)  
-- Daily Average Delay Trend (Line Chart)  
-- Delivery Status Breakdown (Donut Chart)  
-- On-Time Delivery Percentage (Card)  
-- Terminal Filter (Slicer)  
+1. **Transform (SQL)** – Queries summarize freight performance
+2. **Load (CSV)** – Results exported manually
+3. **Model (Power BI)** – CSVs used as source data for visuals
 
----
+This setup demonstrates foundational ETL concepts that could be automated in future iterations.
 
-## 🛠️ Tools Used
+## What You’ll Learn From This Repo
 
-- Google BigQuery Sandbox — SQL-based data summarization  
-- Power BI Desktop — Dashboard development  
-- Power Query & DAX — Data modeling and transformation  
-- Manual CSV exports from SQL output  
-- GitHub — Version control and documentation  
+- How to move from raw freight data to actionable insights
+- How to use SQL for logistics performance analysis
+- How to build an interactive dashboard in Power BI Desktop
+- How to document Power BI projects when publishing is restricted
 
----
+## Next Steps
 
-## 📄 Implementation Notes
+- Simulate monthly trend performance
+- Add benchmarks for SLA comparisons
+- Publish as a web-based dashboard when licensing permits
 
-- SQL scripts: `/SQL/`  
-- CSV summaries: `/Data/`  
-- Dashboard screenshots: `/Dashboard/`  
-- Power Query and DAX screenshots: `/Modeling/`  
-- BigQuery-related views: `/Screenshots/`  
-- Final reports: `/Reports/`  
-- The `.pbix` file has been removed from this repo for versioning reasons and is available upon request.
+## Project Date
 
----
+July 2025
 
-## 🔁 Lightweight Data Pipeline
+## Created by
 
-This project demonstrates a foundational SQL-to-CSV-to-BI data pipeline:
-
-1. **Transform** – SQL queries summarize freight delivery performance  
-2. **Load** – Manual CSV exports serve as input datasets  
-3. **Model** – Power BI uses these structured CSVs to create interactive visuals  
-
-This manual pipeline reflects key ETL (Extract, Transform, Load) concepts and can be extended with automation in future iterations.
-
----
-
-## ✅ What You Can Learn From This Repo
-
-- How to move from raw freight data to actionable logistics insights  
-- How to use SQL to summarize transportation performance  
-- How to build an interactive dashboard in Power BI Desktop  
-- How to creatively document BI projects when publishing is restricted  
-
----
-
-## 📌 Next Steps
-
-- Simulate monthly trend performance  
-- Add benchmarks for SLA comparison  
-- Convert to a public dashboard when licensing allows  
-
----
-
-**🗓️ Project Date:** July 2025  
-**👤 Created by:** Nikkole Carlson  
+Nikkole Carlson
